@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# App Uploads
+temp_uploaded_file.txt
